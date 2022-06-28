@@ -90,7 +90,7 @@ namespace Sub {
 감싸주었던 namespace 이름과 콜론 두개를 적어주고 호출하고 싶은 요소 이름을 이어 적어주면 된다. 
 아래 코드처럼 말이다. 
 
-※ :: <- scope resolution operator
+- __::__ <- scope resolution operator
 ```
 int main(){
     int a = 5;
